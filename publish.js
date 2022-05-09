@@ -7,11 +7,11 @@ var newestUrls = [
 	'https://18xx03com'
 ];
 var otherUrls = [
-	'https://18xx.com',
+	'https://18xxdz.com',
 	'https://18xxdz.github.io'
 ];
 var foreverUrls = [
-    'https://18xx.com',
+    '18xx.com',
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
